@@ -12,3 +12,5 @@ https://github.com/user-attachments/assets/35ad00e8-cb42-4ffe-ab0d-b859fcee1da7
 - Used ConversationBufferMemory to store chat history in memory
 - Generate Response using Cohere LLM model
 
+![image](https://github.com/user-attachments/assets/08a3844e-4975-405c-9b82-7e0dafbdb5a2)
+
